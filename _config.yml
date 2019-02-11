@@ -1,10 +1,10 @@
 # Site settings
-title: _SmileLuo Blog
-SEOTitle: 小猪的博客 | _SmileLuo Blog
+title: _SmileShi Blog
+SEOTitle: 小石的博客 | _SmileShi Blog
 header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
 description: "Every failure is leading towards success."
-keyword: "_SmileLuo, _SmileLuo Blog, 小猪的博客, sjk-wt, 小猪, 罗妹"
+keyword: "_SmileShi, _SmileShi Blog, 小石的博客, sjk-wt, 小猪, 罗妹"
 url: "http://sjk-wt.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
