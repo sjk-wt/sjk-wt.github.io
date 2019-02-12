@@ -4,14 +4,14 @@ SEOTitle: 小石的博客 | _SmileShi Blog
 header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
 description: "Every failure is leading towards success."
-keyword: "_SmileShi, _SmileShi Blog, 小石的博客, sjk-wt, 小猪, 罗妹"
+keyword: "_SmileShi, _SmileShi Blog, 小石的博客, simleshi, 小猪, 罗妹"
 url: "http://sjk-wt.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "浑浑噩噩，恍恍惚惚，糊糊涂涂。"
 sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -22,7 +22,7 @@ weibo_username:     sjk-wt
 zhihu_username:     15293873335
 github_username:    sjk-wt
 # facebook_username:  baiying.qiu.7
-# jianshu_username:   e71990ada2fd
+jianshu_username:   15293873335
 #twitter_username:   qiubaiying
 
 
