@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
 description: "Every failure is leading towards success."
 keyword: "_SmileShi, _SmileShi Blog, 小石的博客, simleshi, 小猪, 罗妹"
-url: "http://sjk-wt.github.io"          # your host, for absolute URL
+url: "http://smileshi.top"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
